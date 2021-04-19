@@ -1,5 +1,7 @@
 '''
 脚本功能：根据文件类型整理文件，根据FileType归类整理
+使用方法：将该脚本放置需要整理的文件夹下，cd到该目录，执行 python3 File_Sorter.py 即可。
+
 '''
 
 import os
